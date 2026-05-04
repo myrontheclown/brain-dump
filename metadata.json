@@ -1,0 +1,6 @@
+{
+  "name": "Brain Dump → Task Sorter",
+  "description": "Convert messy thoughts into actionable, prioritized tasks using an intuitive neubrutalist interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Task Management", "Natural Language Parsing", "Local Persistence"]
+}
